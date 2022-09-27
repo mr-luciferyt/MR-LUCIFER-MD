@@ -1,9 +1,9 @@
 {
-    "name": "Aquabot - MD",
+    "name": "MR-LUCIFER-MD",
     "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
-    "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
-    "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
+    "logo": "https://ibb.co/JmfZV8F/mr-lucifer-md.jpg",
+    "keywords": ["whatsapp", "userbot", "lucifer", "bot", "ai" , "MD" ],
+    "repository": "https://github.com/mr-luciferyt/MR-LUCIFER-MD",
     "website":   "https://aquabot.ga/",
     "success_url": "https://aquabot.ga",
     "stack": "container",
@@ -70,7 +70,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙼𝚁-𝙻𝚄𝙲𝙸𝙵𝙴𝚁 ²⁰²²" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -80,7 +80,7 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙼𝚁-𝙻𝚄𝙲𝙸𝙵𝙴𝚁 ²⁰²²" ,
             "required": true
       },
        "INBOX_BLOCK": {
@@ -100,7 +100,7 @@
       },
       "ALIVE_LOGO": {
             "description": "",
-            "value": "https://telegra.ph/file/85fe740b2385a55178500.jpg" ,
+            "value": "https://telegra.ph/file/eec58b0205626e92fd0e9.jpg" ,
             "required": true
       },
      
@@ -136,7 +136,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "🪀 ᴍʀ-ʟᴜᴄɪꜰᴇʀ 🪀" ,
             "required": true
       },
           "WORK_TYPE": {
